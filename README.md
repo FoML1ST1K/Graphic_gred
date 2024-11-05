@@ -1,4 +1,4 @@
-## Mouse Test Application
+## Graphical Visualization Oscilloscope
 ### Overview
 The Mouse Test Application is a graphical interface built using Qt that allows users to test their mouse functionality. The application prompts users to move their mouse cursor over four specified positions on the screen and perform clicks using both the left and right mouse buttons. Progress is visually represented in a progress bar, providing instant feedback on the testing process.
 
